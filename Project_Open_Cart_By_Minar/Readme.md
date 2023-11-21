@@ -10,14 +10,8 @@ Live update of OPEN CART project
 3. RTM File
    LinK : https://docs.google.com/spreadsheets/d/1NcyuRSbYbXmi8qhOBPlH7ZzZJp8KrssFEs_gDtpJR8E/edit#gid=316399967
      
-
-      
-
-
 Contribution
+I've written 25 test scenarios and developed test cases for 13 out of the 25 listed scenarios, resulting in a total of 234 test cases. During the testing phase, I identified 12 bugs.
 
-Test Scenario: I have written a total of 25 test scenarios.
 
-Test Case : I've written test cases for 13 out of 25 scenarios from the list, And Total 234 test cases altogether.
 
-Bug : I've found a total of 12 bugs.
