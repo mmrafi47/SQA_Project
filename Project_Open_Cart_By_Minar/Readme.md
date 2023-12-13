@@ -1,6 +1,6 @@
 Opencart Project (Manual Testing)
 
-Opencart Demon Link: https://www.opencart.com/index.php?route=cms/demo
+Opencart Demo Link: https://www.opencart.com/index.php?route=cms/demo
 
 Live update of OPEN CART project 
 1. Test Case, Test Scenario, Test Result report
